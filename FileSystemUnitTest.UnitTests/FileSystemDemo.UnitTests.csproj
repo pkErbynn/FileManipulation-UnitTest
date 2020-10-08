@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FileSystemUnitTest\FileSystemUnitTest.csproj" />
+    <ProjectReference Include="..\FileSystemUnitTest\FileSystemDemo.csproj" />
   </ItemGroup>
 
 </Project>

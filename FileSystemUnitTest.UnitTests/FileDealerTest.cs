@@ -3,9 +3,9 @@ using Moq;
 using System;
 using System.IO.Abstractions;
 using Xunit;
-using FileSystemUnitTest;
+using FileSystemDemo;
 
-namespace FileSystemUnitTest.UnitTests
+namespace FileSystemDemo.UnitTests
 {
     public class FileDealerTest
     {
